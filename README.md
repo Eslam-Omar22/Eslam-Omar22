@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Eslam-Omar22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Highly-skilled and very motivated AI Engineer with +3 years of experience .
+Bringing hands on experience in implementing Machine Learning and Deep Learning projects.
 
-<!---
-Eslam-Omar22/Eslam-Omar22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✓ Certified AI engineer 
+✓ Certified Data scientist with python.
+✓ Certified Deep learning engineer.
+
+Recent projects:
+➣ Face mask detection 
+➣ Starbucks sales time series forecasting  
+➣ Brain Tumor Segmentation and Classification 
+➣ Neuronal Cell Instance Segmentation
+➣ Microsoft-Malware-detection
+➣ e-commerce recommender system 
+➣ Arabic hand-written character recognition
+➣ Forest Cover type classification 
+
+
+I have extensive experience with the following tools and technologies:
+
+✓ coding skills in Python (scripting, Jupyter, google Colab)
+✓ Python data analytics libraries (scikit-learn, pandas, numpy, Matplotlib)
+✓ Computer Vision tools and packages (MMDetection, OpenCv)
+✓ Natural Language Processing tools and packages (gensim, spacy, nltk)
+✓ Deep learning libraries and toolboxes (TensorFlow, Keras, Pytorch)
